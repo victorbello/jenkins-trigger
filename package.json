@@ -1,0 +1,8 @@
+{
+  "name": "trigger-jenkins",
+  "version": "0.0.1",
+  "description": "Trigger Jenkins",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
